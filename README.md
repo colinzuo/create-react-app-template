@@ -19,3 +19,7 @@ yarn add husky lint-staged prettier -D
 npx -p @storybook/cli sb init
 ```
 
+## 按照storybook文档了解开发流程
+
+[intro-to-storybook](https://www.learnstorybook.com/intro-to-storybook/react/en/get-started/)
+
